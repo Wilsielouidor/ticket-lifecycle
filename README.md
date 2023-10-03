@@ -29,9 +29,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h3>Intake</h3>
+<h3>Intake (Create Tickets)</h3>
 <ul>
-  <li>Create Tickets from osTicket Enduser Website </li>
+  <li>Create Tickets from osTicket End User Website </li>
 </ul>
 
 <p>

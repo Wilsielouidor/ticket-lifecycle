@@ -63,12 +63,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <img width="80%" alt="Screen Shot 2023-10-03 at 12 09 05 AM" src="https://github.com/Wilsielouidor/ticket-lifecycle/assets/142513380/1a893dde-771b-4380-9fdb-07c87d5fd6af">
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<p> You can see the agent(Mateo)that has Supreme Admin (full access) to all tickets that have been submitted. Mateo has assigned tickets to the correct agent.  </p>
 
 <h3>Working the Issue and Resolution </h3>
+<p> 
+</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After assigning tickets to the correct agent now the agents will keep communication with the customers on how their issue will be resolved. Once ticket is resolved the agent will finally send the message to the customer informing  why orhow the issue is resolved. Below you can see the communication between agents and the user. 
 </p>
 <br />
+
+<p><img width="80%" alt="Screen Shot 2023-10-04 at 6 05 30 PM" src="https://github.com/Wilsielouidor/ticket-lifecycle/assets/142513380/9f96592d-242a-4c9d-8810-b05eefadb777">
+ </p>
+
+ <p>
+   <img width="80%" alt="Screen Shot 2023-10-04 at 6 18 16 PM" src="https://github.com/Wilsielouidor/ticket-lifecycle/assets/142513380/690bd1b7-e26c-4419-a7fa-fdd3c07eff09">
+ </p>
+
+ <p><img width="80%" alt="Screen Shot 2023-10-04 at 6 20 09 PM" src="https://github.com/Wilsielouidor/ticket-lifecycle/assets/142513380/1b0d566f-b7c6-4781-8664-3833f2d009b5">
+   <img width="80%" alt="Screen Shot 2023-10-04 at 6 20 49 PM" src="https://github.com/Wilsielouidor/ticket-lifecycle/assets/142513380/110163fc-a98e-402b-98d2-ae25e8edf0e2">
+
+</p>
+
+<p> Once the issue has been resolved the agent will change the ticket from open to resolved and explain how it was resolved. </p>
